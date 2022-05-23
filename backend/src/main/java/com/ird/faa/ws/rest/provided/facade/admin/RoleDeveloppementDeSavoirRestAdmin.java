@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.ird.faa.bean.formulaire.RoleDeveloppementDeSavoir;
-import com.ird.faa.service.admin.facade.RoleDeveloppementDeSavoirAdminService;
+import com.ird.faa.service.admin.facade.formulaire.RoleDeveloppementDeSavoirAdminService;
 import com.ird.faa.ws.rest.provided.converter.RoleDeveloppementDeSavoirConverter;
 import com.ird.faa.ws.rest.provided.vo.RoleDeveloppementDeSavoirVo;
 

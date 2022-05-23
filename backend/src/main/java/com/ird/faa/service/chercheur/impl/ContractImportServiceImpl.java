@@ -18,7 +18,7 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ird.faa.bean.formulaire.Chercheur;
 import com.ird.faa.bean.formulaire.ContratEtConventionIrd;
-import com.ird.faa.service.admin.facade.GraphqlService;
+import com.ird.faa.service.admin.facade.formulaire.GraphqlService;
 import com.ird.faa.service.chercheur.facade.ChercheurChercheurService;
 import com.ird.faa.service.chercheur.facade.ContractImportService;
 import com.ird.faa.service.chercheur.facade.ContratEtConventionIrdChercheurService;

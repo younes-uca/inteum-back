@@ -1,6 +1,6 @@
 package  com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.EtablissementCultureScientifiqueRecontreGrandPublicJeunePublicAdminService;
+import com.ird.faa.service.admin.facade.formulaire.EtablissementCultureScientifiqueRecontreGrandPublicJeunePublicAdminService;
 
 import java.util.List;
 

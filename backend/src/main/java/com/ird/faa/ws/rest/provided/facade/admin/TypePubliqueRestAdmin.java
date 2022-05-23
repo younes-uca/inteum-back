@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.ird.faa.bean.config.TypePublique;
-import com.ird.faa.service.admin.facade.TypePubliqueAdminService;
+import com.ird.faa.service.admin.facade.config.TypePubliqueAdminService;
 import com.ird.faa.ws.rest.provided.converter.TypePubliqueConverter;
 import com.ird.faa.ws.rest.provided.vo.TypePubliqueVo;
 

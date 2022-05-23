@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.ird.faa.bean.formulaire.DeveloppementDeSavoirEtInnovationScientifiquePays;
-import com.ird.faa.service.admin.facade.DeveloppementDeSavoirEtInnovationScientifiquePaysAdminService;
+import com.ird.faa.service.admin.facade.formulaire.DeveloppementDeSavoirEtInnovationScientifiquePaysAdminService;
 import com.ird.faa.ws.rest.provided.converter.DeveloppementDeSavoirEtInnovationScientifiquePaysConverter;
 import com.ird.faa.ws.rest.provided.vo.DeveloppementDeSavoirEtInnovationScientifiquePaysVo;
 

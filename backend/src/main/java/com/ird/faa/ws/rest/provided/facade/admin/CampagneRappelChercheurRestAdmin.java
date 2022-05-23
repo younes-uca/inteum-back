@@ -1,6 +1,6 @@
 package  com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.CampagneRappelChercheurAdminService;
+import com.ird.faa.service.admin.facade.formulaire.CampagneRappelChercheurAdminService;
 
 import java.util.List;
 

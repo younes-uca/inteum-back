@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.ird.faa.bean.formulaire.CommunauteSavoirEncadrementDoctorant;
-import com.ird.faa.service.admin.facade.CommunauteSavoirEncadrementDoctorantAdminService;
+import com.ird.faa.service.admin.facade.formulaire.CommunauteSavoirEncadrementDoctorantAdminService;
 import com.ird.faa.ws.rest.provided.converter.CommunauteSavoirEncadrementDoctorantConverter;
 import com.ird.faa.ws.rest.provided.vo.CommunauteSavoirEncadrementDoctorantVo;
 

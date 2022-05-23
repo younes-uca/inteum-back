@@ -1,6 +1,6 @@
 package  com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.DoctorantAdminService;
+import com.ird.faa.service.admin.facade.formulaire.DoctorantAdminService;
 
 import java.util.List;
 

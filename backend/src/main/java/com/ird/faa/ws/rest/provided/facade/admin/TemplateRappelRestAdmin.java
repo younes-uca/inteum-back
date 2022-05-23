@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.ird.faa.bean.formulaire.TemplateRappel;
-import com.ird.faa.service.admin.facade.TemplateRappelAdminService;
+import com.ird.faa.service.admin.facade.formulaire.TemplateRappelAdminService;
 import com.ird.faa.ws.rest.provided.converter.TemplateRappelConverter;
 import com.ird.faa.ws.rest.provided.vo.TemplateRappelVo;
 

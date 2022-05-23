@@ -1,6 +1,6 @@
 package  com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.PaysTypeOutilCultureScientifiqueOutilPedagogiqueAdminService;
+import com.ird.faa.service.admin.facade.formulaire.PaysTypeOutilCultureScientifiqueOutilPedagogiqueAdminService;
 
 import java.util.List;
 

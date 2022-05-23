@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.ird.faa.bean.formulaire.EvenementColloqueScientifiqueInstrumentIrd;
-import com.ird.faa.service.admin.facade.EvenementColloqueScientifiqueInstrumentIrdAdminService;
+import com.ird.faa.service.admin.facade.formulaire.EvenementColloqueScientifiqueInstrumentIrdAdminService;
 import com.ird.faa.ws.rest.provided.converter.EvenementColloqueScientifiqueInstrumentIrdConverter;
 import com.ird.faa.ws.rest.provided.vo.EvenementColloqueScientifiqueInstrumentIrdVo;
 

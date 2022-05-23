@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.ird.faa.bean.formulaire.DisciplineScientifiqueEncadrementDoctorant;
-import com.ird.faa.service.admin.facade.DisciplineScientifiqueEncadrementDoctorantAdminService;
+import com.ird.faa.service.admin.facade.formulaire.DisciplineScientifiqueEncadrementDoctorantAdminService;
 import com.ird.faa.ws.rest.provided.converter.DisciplineScientifiqueEncadrementDoctorantConverter;
 import com.ird.faa.ws.rest.provided.vo.DisciplineScientifiqueEncadrementDoctorantVo;
 

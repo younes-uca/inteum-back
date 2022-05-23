@@ -1,6 +1,6 @@
 package  com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.DisciplineScientifiqueConseilEtComiteScientifiqueAdminService;
+import com.ird.faa.service.admin.facade.formulaire.DisciplineScientifiqueConseilEtComiteScientifiqueAdminService;
 
 import java.util.List;
 

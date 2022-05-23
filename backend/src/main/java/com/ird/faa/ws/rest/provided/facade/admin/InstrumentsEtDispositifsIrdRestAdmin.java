@@ -1,6 +1,6 @@
 package  com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.InstrumentsEtDispositifsIrdAdminService;
+import com.ird.faa.service.admin.facade.formulaire.InstrumentsEtDispositifsIrdAdminService;
 
 import java.util.List;
 
