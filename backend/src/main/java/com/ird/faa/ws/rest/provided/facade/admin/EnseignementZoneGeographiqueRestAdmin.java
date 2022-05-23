@@ -1,6 +1,6 @@
 package  com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.EnseignementZoneGeographiqueAdminService;
+import com.ird.faa.service.admin.facade.formulaire.EnseignementZoneGeographiqueAdminService;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
 package  com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.IdentifiantAuteurExpertAdminService;
+import com.ird.faa.service.admin.facade.formulaire.IdentifiantAuteurExpertAdminService;
 
 import java.util.List;
 

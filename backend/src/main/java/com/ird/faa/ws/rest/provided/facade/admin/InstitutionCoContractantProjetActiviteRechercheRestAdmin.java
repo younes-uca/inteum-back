@@ -1,6 +1,6 @@
 //package  com.ird.faa.ws.rest.provided.facade.admin;
 //
-//import com.ird.faa.service.admin.facade.InstitutionCoContractantProjetActiviteRechercheAdminService;
+//import com.ird.faa.service.admin.facade.formulaire.InstitutionCoContractantProjetActiviteRechercheAdminService;
 //
 //import java.util.List;
 //

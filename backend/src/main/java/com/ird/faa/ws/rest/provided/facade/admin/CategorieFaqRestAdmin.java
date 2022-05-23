@@ -1,7 +1,7 @@
 package com.ird.faa.ws.rest.provided.facade.admin;
 
 import com.ird.faa.bean.formulaire.CategorieFaq;
-import com.ird.faa.service.admin.facade.CategorieFaqAdminService;
+import com.ird.faa.service.admin.facade.formulaire.CategorieFaqAdminService;
 import com.ird.faa.ws.rest.provided.converter.CategorieFaqConverter;
 import com.ird.faa.ws.rest.provided.vo.CategorieFaqVo;
 import io.swagger.annotations.Api;

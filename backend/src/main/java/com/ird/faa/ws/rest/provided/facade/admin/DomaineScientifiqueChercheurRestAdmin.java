@@ -1,6 +1,6 @@
 package  com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.DomaineScientifiqueChercheurAdminService;
+import com.ird.faa.service.admin.facade.formulaire.DomaineScientifiqueChercheurAdminService;
 
 import java.util.List;
 

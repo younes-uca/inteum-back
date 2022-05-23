@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.ird.faa.bean.formulaire.SavoirEtInnovation;
-import com.ird.faa.service.admin.facade.SavoirEtInnovationAdminService;
+import com.ird.faa.service.admin.facade.formulaire.SavoirEtInnovationAdminService;
 import com.ird.faa.ws.rest.provided.converter.SavoirEtInnovationConverter;
 import com.ird.faa.ws.rest.provided.vo.SavoirEtInnovationVo;
 

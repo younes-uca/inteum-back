@@ -1,4 +1,4 @@
-package com.ird.faa.service.chercheur.impl.formulaire;
+package com.ird.faa.service.chercheur.impl;
 
 import java.util.HashMap;
 import java.util.List;
@@ -18,10 +18,10 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.ird.faa.bean.formulaire.Chercheur;
 import com.ird.faa.bean.formulaire.ContratEtConventionIrd;
-import com.ird.faa.service.admin.facade.GraphqlService;
-import com.ird.faa.service.chercheur.facade.formulaire.ChercheurChercheurService;
-import com.ird.faa.service.chercheur.facade.formulaire.ContractImportService;
-import com.ird.faa.service.chercheur.facade.formulaire.ContratEtConventionIrdChercheurService;
+import com.ird.faa.service.admin.facade.formulaire.GraphqlService;
+import com.ird.faa.service.chercheur.facade.ChercheurChercheurService;
+import com.ird.faa.service.chercheur.facade.ContractImportService;
+import com.ird.faa.service.chercheur.facade.ContratEtConventionIrdChercheurService;
 import com.ird.faa.ws.rest.provided.converter.ContractDtoToVoConverter;
 import com.ird.faa.ws.rest.provided.converter.ContratEtConventionIrdConverter;
 import com.ird.faa.ws.rest.provided.dto.ContractDto;

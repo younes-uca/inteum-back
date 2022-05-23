@@ -1,6 +1,6 @@
 package com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.DistinctionAdminService;
+import com.ird.faa.service.admin.facade.formulaire.DistinctionAdminService;
 
 import java.util.List;
 

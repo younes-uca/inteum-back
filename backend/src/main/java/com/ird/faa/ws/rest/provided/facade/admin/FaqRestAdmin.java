@@ -2,7 +2,7 @@ package com.ird.faa.ws.rest.provided.facade.admin;
 
 import com.ird.faa.bean.formulaire.CategorieFaq;
 import com.ird.faa.bean.formulaire.Faq;
-import com.ird.faa.service.admin.facade.FaqAdminService;
+import com.ird.faa.service.admin.facade.formulaire.FaqAdminService;
 import com.ird.faa.ws.rest.provided.converter.CategorieFaqConverter;
 import com.ird.faa.ws.rest.provided.converter.FaqConverter;
 import com.ird.faa.ws.rest.provided.vo.FaqVo;

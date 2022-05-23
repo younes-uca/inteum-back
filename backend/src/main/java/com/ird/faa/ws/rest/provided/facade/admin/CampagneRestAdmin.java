@@ -1,7 +1,7 @@
 package com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.CampagneAdminService;
-import com.ird.faa.service.admin.facade.CampagneChercheurAdminService;
+import com.ird.faa.service.admin.facade.formulaire.CampagneAdminService;
+import com.ird.faa.service.admin.facade.formulaire.CampagneChercheurAdminService;
 import com.ird.faa.service.util.DateUtil;
 
 import java.util.Calendar;

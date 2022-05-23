@@ -12,7 +12,7 @@ import com.ird.faa.FaaApplication;
 import com.ird.faa.bean.formulaire.Chercheur;
 import com.ird.faa.security.bean.User;
 import com.ird.faa.security.service.facade.UserService;
-import com.ird.faa.service.admin.facade.ChercheurAdminService;
+import com.ird.faa.service.admin.facade.formulaire.ChercheurAdminService;
 
 
 @Service

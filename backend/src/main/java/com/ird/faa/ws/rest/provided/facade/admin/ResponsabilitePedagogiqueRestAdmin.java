@@ -1,6 +1,6 @@
 package  com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.ResponsabilitePedagogiqueAdminService;
+import com.ird.faa.service.admin.facade.formulaire.ResponsabilitePedagogiqueAdminService;
 
 import java.util.List;
 

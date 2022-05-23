@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.ird.faa.bean.referentiel.ModaliteIntervention;
-import com.ird.faa.service.admin.facade.ModaliteInterventionAdminService;
 import com.ird.faa.ws.rest.provided.converter.ModaliteInterventionConverter;
 import com.ird.faa.ws.rest.provided.vo.ModaliteInterventionVo;
 

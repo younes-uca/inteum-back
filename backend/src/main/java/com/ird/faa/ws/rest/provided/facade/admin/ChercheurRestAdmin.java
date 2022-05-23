@@ -1,8 +1,8 @@
 package com.ird.faa.ws.rest.provided.facade.admin;
 
 import com.ird.faa.dao.impl.ChercheurDaoImpl;
-import com.ird.faa.service.admin.facade.ChercheurAdminService;
-import com.ird.faa.service.admin.facade.ChercheursImportService;
+import com.ird.faa.service.admin.facade.formulaire.ChercheurAdminService;
+import com.ird.faa.service.admin.facade.formulaire.ChercheursImportService;
 
 import java.util.ArrayList;
 import java.util.List;

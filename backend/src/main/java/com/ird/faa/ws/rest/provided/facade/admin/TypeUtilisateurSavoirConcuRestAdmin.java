@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.ird.faa.bean.formulaire.TypeUtilisateurSavoirConcu;
-import com.ird.faa.service.admin.facade.TypeUtilisateurSavoirConcuAdminService;
+import com.ird.faa.service.admin.facade.formulaire.TypeUtilisateurSavoirConcuAdminService;
 import com.ird.faa.ws.rest.provided.converter.TypeUtilisateurSavoirConcuConverter;
 import com.ird.faa.ws.rest.provided.vo.TypeUtilisateurSavoirConcuVo;
 

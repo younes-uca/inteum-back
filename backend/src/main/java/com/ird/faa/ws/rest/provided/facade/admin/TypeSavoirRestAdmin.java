@@ -1,7 +1,5 @@
 package  com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.TypeSavoirAdminService;
-
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;

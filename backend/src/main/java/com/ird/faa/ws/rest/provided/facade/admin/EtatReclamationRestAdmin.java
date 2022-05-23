@@ -1,6 +1,6 @@
 package  com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.EtatReclamationAdminService;
+import com.ird.faa.service.admin.facade.config.EtatReclamationAdminService;
 
 import java.util.List;
 

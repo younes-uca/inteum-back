@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.ird.faa.bean.formulaire.TemplateOuverture;
-import com.ird.faa.service.admin.facade.TemplateOuvertureAdminService;
+import com.ird.faa.service.admin.facade.formulaire.TemplateOuvertureAdminService;
 import com.ird.faa.ws.rest.provided.converter.TemplateOuvertureConverter;
 import com.ird.faa.ws.rest.provided.vo.TemplateOuvertureVo;
 

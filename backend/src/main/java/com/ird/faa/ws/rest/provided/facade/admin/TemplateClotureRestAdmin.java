@@ -1,6 +1,6 @@
 package  com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.TemplateClotureAdminService;
+import com.ird.faa.service.admin.facade.formulaire.TemplateClotureAdminService;
 
 import java.util.List;
 

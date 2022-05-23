@@ -1,6 +1,6 @@
 package  com.ird.faa.ws.rest.provided.facade.admin;
 
-import com.ird.faa.service.admin.facade.EtatCampagneAdminService;
+import com.ird.faa.service.admin.facade.config.EtatCampagneAdminService;
 
 import java.util.List;
 

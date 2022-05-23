@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.ird.faa.bean.formulaire.TemplateRelance;
-import com.ird.faa.service.admin.facade.TemplateRelanceAdminService;
+import com.ird.faa.service.admin.facade.formulaire.TemplateRelanceAdminService;
 import com.ird.faa.ws.rest.provided.converter.TemplateRelanceConverter;
 import com.ird.faa.ws.rest.provided.vo.TemplateRelanceVo;
 
